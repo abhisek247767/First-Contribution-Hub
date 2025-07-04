@@ -34,7 +34,8 @@
 
 <div align="center">
 
-![Hacktoberfest Logo](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+![image](https://github.com/user-attachments/assets/026e22ba-8b88-4549-a18d-e3ec884f6d0c)
+
 
 </div>
 
@@ -84,7 +85,7 @@
 
 8. **⭐ Star this repository** if you had fun!
 
----
+
 
 ## 🎯 **How to Contribute - Choose Your Task**
 
@@ -185,13 +186,18 @@ Contribute amazing JavaScript projects to the `Top-Notch-Javascript-Projects` fo
 </div>
 
 
-## 🎊 **What's Next?**
 
 After your first contribution:
-- 🌟 Star this repository
-- 👀 Watch for updates
-- 🔄 Share with friends
-- 🎯 Continue contributing to open source
+
+- 🌟 Star this repository  
+- 👀 Watch for updates  
+- 🔄 Share with friends  
+- 🎯 Continue contributing to open source  
+- 📌 **Check out my other repositories** on AI, Machine Learning, Algorithms, and First Programming Language projects:
+  - [💡 AI-ML-DL-Hacktoberfest2024-WB](https://github.com/abhisek247767/AI-ML-DL-Hacktoberfest2024-WB)
+  - [🏆 LeetCode2024-6Companies30Days](https://github.com/abhisek247767/LeetCode2024-6Companies30Days)
+  - [👋 Hello-World](https://github.com/abhisek247767/Hello-World)
+
 
 
 <div align="center">
