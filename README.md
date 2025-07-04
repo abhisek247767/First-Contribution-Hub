@@ -89,19 +89,19 @@
 
 ### 1. 📝 **Add Your Name**
 
-Add your name to the [`CONTRIBUTING.md`]( Contributer/CONTRIBUTING.md) file in the following format:
+Add your name to the [`CONTRIBUTING.md`](Contributors/CONTRIBUTING.md) file in the following format:
 
 ```markdown
 - Name: [Your Name](https://github.com/your-github-username)
 - Place: City, State, Country
 - Bio: A short intro about yourself
 - Portfolio Link: portfolio Link
-- Profile : profiles/Your_Name.md
+- Profile : Profiles/Your_Name.md
 ```
 
 ### 2. 👤 **Add a Profile Page**
 
-Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like:
+Add a `Your_Name.md` file to the `Profiles` directory. Use any combination of content and Markdown you'd like:
 
 ```markdown
 # Your Name
@@ -118,13 +118,13 @@ Your School or College
 - Open Source Collaboration
 
 ### 💻 Development
-- Creator of My Awesome Project
+- Creator of My Awesome Project 
 
 ### 🚀 Projects
 - [Project Name](https://github.com/your-github-username/project-repo)
 
 ### 📝 Short Description
-- A brief overview of your project or interest (max 80 words)
+- A brief overview of your project or motivation (max 80 words)
 
 ### 💻 Deployed Link
 - [Live Project](https://your-live-link.com)
