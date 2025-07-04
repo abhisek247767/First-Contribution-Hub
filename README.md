@@ -89,13 +89,14 @@
 
 ### 1. 📝 **Add Your Name**
 
-Add your name to the `CONTRIBUTING.md` file using the below convention:
+Add your name to the [`CONTRIBUTING.md`]( Contributer/CONTRIBUTING.md) file in the following format:
 
 ```markdown
-#### Name: [YOUR NAME](GitHub link)
+- Name: [Your Name](https://github.com/your-github-username)
 - Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+- Bio: A short intro about yourself
+- Portfolio Link: portfolio Link
+- Profile : profiles/Your_Name.md
 ```
 
 ### 2. 👤 **Add a Profile Page**
@@ -106,33 +107,33 @@ Add a `Your_Name.md` file to the `profiles` directory. Use any combination of co
 # Your Name
 
 ### 📍 Location
-Your City/Country
+Your City, Country
 
 ### 🎓 Academics
-Your School
+Your School or College
 
 ### 💡 Interests
-- Some Things You Like
+- AI & Machine Learning
+- Competitive Programming
+- Open Source Collaboration
 
 ### 💻 Development
-- Inventor of the My Pillow
+- Creator of My Awesome Project
 
 ### 🚀 Projects
-- [My Project](GitHub Link)
+- [Project Name](https://github.com/your-github-username/project-repo)
 
 ### 📝 Short Description
-- [Description](About the project)
+- A brief overview of your project or interest (max 80 words)
 
 ### 💻 Deployed Link
-- [My Project](Deployed Link)
+- [Live Project](https://your-live-link.com)
 
-### 🔗 Profile Link
-[Your Name](GitHub Link)
+### 🔗 Profile Link (Github/ Linkedin)
+[Your GitHub Profile](https://github.com/your-github-username)
+
 ```
 
-### 3. 👋 **Create a `Hello, World!` Script**
-
-Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice!
 
 **Example:**
 ```python
@@ -158,8 +159,6 @@ Add your scripts to the specific folder for specific languages created.
 - ✅ Test your changes before submitting
 - ✅ Be respectful and inclusive
 - ✅ Have fun contributing!
-
-
 
 
 
