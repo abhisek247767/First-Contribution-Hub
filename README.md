@@ -21,8 +21,6 @@
 
 ## 🌟 **This Project Is Perfect For Your First Pull Request**
 
-### 🤖 For Machine Learning & AI Projects
-**[🔗 Hacktoberfest Machine Learning Project Repository](https://github.com/abhisek247767/AI-ML-DL-Hacktoberfest2024-WB)**
 
 
 
