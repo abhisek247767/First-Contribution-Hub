@@ -1,12 +1,32 @@
-# First-Contribution-Hub
+# 🎃 First-Contribution-Hub
 
-# HacktoberFest 2025 `OPEN FIRST` Pull Request
-![HacktoberFest 2023](logo.png)
+<div align="center">
+
+# 🚀 HacktoberFest 2025 `OPEN FIRST` Pull Request
+
+![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-orange.svg?style=for-the-badge&logo=hacktoberfest&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red.svg?style=for-the-badge)
+![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-green.svg?style=for-the-badge)
+
+[![GitHub forks](https://img.shields.io/github/forks/abhisek247767/First-Contribution-Hub?style=for-the-badge&logo=github)](https://github.com/abhisek247767/First-Contribution-Hub/network)
+[![GitHub stars](https://img.shields.io/github/stars/abhisek247767/First-Contribution-Hub?style=for-the-badge&logo=github)](https://github.com/abhisek247767/First-Contribution-Hub/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/abhisek247767/First-Contribution-Hub?style=for-the-badge&logo=github)](https://github.com/abhisek247767/First-Contribution-Hub/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/abhisek247767/First-Contribution-Hub?style=for-the-badge&logo=github)](https://github.com/abhisek247767/First-Contribution-Hub/pulls)
+
+[![Contributors](https://img.shields.io/github/contributors/abhisek247767/First-Contribution-Hub?style=for-the-badge&logo=github)](https://github.com/abhisek247767/First-Contribution-Hub/graphs/contributors)
+[![License](https://img.shields.io/github/license/abhisek247767/First-Contribution-Hub?style=for-the-badge)](https://github.com/abhisek247767/First-Contribution-Hub/blob/master/LICENSE)
+
+</div>
 
 
-## This Project Is Perfect For Your First Pull Request
-## For Hacktoberfest Machine Learning Project Contributions , Click Below
-## [Hacktoberfest Machine Learning Project Repository ](https://github.com/abhisek247767/Hacktoberfest-Machine-Learning-diseases)
+## 🌟 **This Project Is Perfect For Your First Pull Request**
+
+### 🤖 For Machine Learning & AI Projects
+**[🔗 Hacktoberfest Machine Learning Project Repository](https://github.com/abhisek247767/AI-ML-DL-Hacktoberfest2024-WB)**
+
+
+
+## 📢 **About Hacktoberfest**
 
 🗣 **Hacktoberfest encourages participation in the open-source community, which grows bigger every year. Complete the challenge and get a tree planted on your name showing your love towards mother Earth 🌍**
 
@@ -14,127 +34,181 @@
 
 <div align="center">
 
- <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
- <a href="https://github.com/abhisek247767" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
-
-<a href="https://github.com/abhisek247767/First-Contribution-Hub/pulls"><img src="https://img.shields.io/github/issues-pr/abhisek247767/First-Contribution-Hub" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisek247767/First-Contribution-Hub?color=2b9348"></a>
-<a href="https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisek247767/First-Contribution-Hub?color=2b9348" alt="License Badge"/></a>
+![Hacktoberfest Logo](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
 </div>
 
-## INSTRUCTIONS for this project for beginners -
 
-## Getting started
 
-- Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-- You can directly make changes through Github or you can use VScode and commit by following the steps below
-- Clone your fork down to your local machine
+## 🚀 **Getting Started**
 
-```markdown
-git clone https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New.git
-```
+### 🔧 **Prerequisites**
+- Git installed on your machine
+- A GitHub account
+- Basic knowledge of Markdown (optional)
 
-- Create a branch
+### 📋 **Step-by-Step Instructions**
 
-```markdown
-git checkout -b branch-name
-```
+1. **🍴 Fork this repository**
+   - Click the Fork button in the top right of this page
+   - Click your Profile Image
 
-- Make your changes (choose from any task below)
-- Commit and push
+2. **📥 Clone your fork down to your local machine**
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/First-Contribution-Hub.git
+   ```
 
-```markdown
-git add .
-git commit -m 'Commit message'
-git push origin branch-name
-```
+3. **📁 Navigate to the project directory**
+   ```bash
+   cd First-Contribution-Hub
+   ```
 
-- Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
-- Wait for your PR review and merge approval!
-- **Star this repository** if you had fun!
+4. **🌿 Create a branch**
+   ```bash
+   git checkout -b your-branch-name
+   ```
 
-# How to contribute to this project
+5. **✏️ Make your changes** (choose from any task below)
 
-## Choose from these tasks
+6. **💾 Commit and push**
+   ```bash
+   git add .
+   git commit -m 'Add: Your descriptive commit message'
+   git push origin your-branch-name
+   ```
 
-### 1. Add your name
+7. **🔄 Create a new pull request**
+   - Go to your forked repository on GitHub
+   - Click the `New Pull Request` button
+   - Fill in the PR template
+
+8. **⭐ Star this repository** if you had fun!
+
+---
+
+## 🎯 **How to Contribute - Choose Your Task**
+
+### 1. 📝 **Add Your Name**
 
 Add your name to the `CONTRIBUTING.md` file using the below convention:
 
 ```markdown
 #### Name: [YOUR NAME](GitHub link)
-
 - Place: City, State, Country
 - Bio: Who are you?
 - GitHub: [GitHub account name](GitHub link)
 ```
 
-### 2. Add a profile page
+### 2. 👤 **Add a Profile Page**
 
-Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
+Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like:
 
 ```markdown
 # Your Name
 
-### Location
-
+### 📍 Location
 Your City/Country
 
-### Academics
-
+### 🎓 Academics
 Your School
 
-### Interests
-
+### 💡 Interests
 - Some Things You Like
 
-### Development
-
+### 💻 Development
 - Inventor of the My Pillow
 
-### Projects
-
+### 🚀 Projects
 - [My Project](GitHub Link) Short Description
 
-### Profile Link
-
+### 🔗 Profile Link
 [Your Name](GitHub Link)
 ```
 
-### 3. Create a `Hello, World!` Script
+### 3. 👋 **Create a `Hello, World!` Script**
 
-Add a `yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
+Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice!
 
-```Python
-// LANGUAGE: Python
-// AUTHOR: Abhisek Roy
-// GITHUB: https://github.com/abhisek247767
+**Example:**
+```python
+# LANGUAGE: Python
+# AUTHOR: Your Name
+# GITHUB: https://github.com/yourusername
 
-# This program is in python!
-
+# This program is in Python!
 print('Hello, Hacktoberfest 2025!')
-
 ```
 
-Name the file `hello_world_yourusername.xx`. e.g., `hello_world_abhisekroy.js` or `hello_world_abhisekroy.py`.
+**Naming Convention:** `hello_world_yourusername.xx`
+- Example: `hello_world_johnsmith.js` or `hello_world_janedoe.py`
 
 Add your scripts to the specific folder for specific languages created.
 
-Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial.
+### 4. 💻 **Add Top-Notch JavaScript Projects**
+
+Contribute amazing JavaScript projects to the `Top-Notch-Javascript-Projects` folder!
+
+
+## 🏆 **Contribution Guidelines**
+- ✅ Star the repo and follow me for 
+- ✅ Make sure your code is clean and well-commented
+- ✅ Follow the existing code style
+- ✅ Test your changes before submitting
+- ✅ Be respectful and inclusive
+- ✅ Have fun contributing!
 
 
 
-### 4.Add top-notch Javascripts Projects in any in 'Top Notch Javascript project folder
-
-### Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
 
-## Maintainer
-## + Follow Me : } Quick Approval of Pull Request
-To get approval of the pull request much quicker and faster (`Follow Me and star the repo`)🚀
-<tr><td align="center"><a href="https://github.com/abhisek247767"><kbd><img src="https://avatars3.githubusercontent.com/abhisek247767?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Abhisek Roy</b></sub></a><br /></td>
+## 👨‍💻 **Maintainer**
 
-</tr>
+<div align="center">
+
+### ⚡ **Quick Approval of Pull Request**
+**To get approval of the pull request much quicker and faster (`Follow Me and star the repo`)🚀**
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/abhisek247767">
+<img src="https://avatars.githubusercontent.com/abhisek247767?size=100" width="100px;" alt="Abhisek Roy"/>
 <br />
-Hurrah!! 🎉 You’ve made your first contribution! Let’s continue contributing to open source and make this Hacktoberfest a success!
+<sub><b>Abhisek Roy</b></sub>
+</a>
+<br />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+## 🎊 **What's Next?**
+
+After your first contribution:
+- 🌟 Star this repository
+- 👀 Watch for updates
+- 🔄 Share with friends
+- 🎯 Continue contributing to open source
+
+
+<div align="center">
+
+### 🎉 **Hurrah!! You've made your first contribution!**
+**Let's continue contributing to open source and make this Hacktoberfest a success!**
+
+![Thank You](https://img.shields.io/badge/Thank%20You-For%20Contributing-brightgreen.svg?style=for-the-badge)
+
+**Happy Coding! 🚀**
+
+</div>
+
+
+
+<div align="center">
+
+**Made with ❤️ for the Open Source Community**
+
+</div>
