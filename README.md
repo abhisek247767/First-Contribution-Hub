@@ -120,7 +120,13 @@ Your School
 - Inventor of the My Pillow
 
 ### 🚀 Projects
-- [My Project](GitHub Link) Short Description
+- [My Project](GitHub Link)
+
+### 📝 Short Description
+- [Description](About the project)
+
+### 💻 Deployed Link
+- [My Project](Deployed Link)
 
 ### 🔗 Profile Link
 [Your Name](GitHub Link)
@@ -145,9 +151,6 @@ print('Hello, Hacktoberfest 2025!')
 
 Add your scripts to the specific folder for specific languages created.
 
-### 4. 💻 **Add Top-Notch JavaScript Projects**
-
-Contribute amazing JavaScript projects to the `Top-Notch-Javascript-Projects` folder!
 
 
 ## 🏆 **Contribution Guidelines**
