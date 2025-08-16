@@ -81,7 +81,7 @@
    - Click the `New Pull Request` button
    - Fill in the PR template
 
-8. **⭐ Star this repository** if you had fun!
+8. **⭐ Star this repository & Need to follow me in github** Mandatory
 
 
 
