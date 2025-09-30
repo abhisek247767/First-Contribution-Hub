@@ -1,0 +1,5 @@
+- Name: [Abhisek Roy](https://github.com/abhisek247767)
+- Place: Chakdaha, West Bengal, India
+- Bio: Software developer and open-source enthusiast with 2+ years of experience
+- Portfolio Link: https://abhisek247767.github.io/AbhisekRoy-SDE/
+- Profile : Profiles/Abhisek_Roy.md
