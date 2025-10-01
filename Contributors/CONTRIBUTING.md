@@ -1,5 +1,5 @@
-- Name: [Abhisek Roy](https://github.com/abhisek247767)
-- Place: Chakdaha, West Bengal, India
-- Bio: Software developer and open-source enthusiast with 2+ years of experience
-- Portfolio Link: https://abhisek247767.github.io/AbhisekRoy-SDE/
-- Profile : Profiles/Abhisek_Roy.md
+- Name: [Narendra Singh Chouhan](https://github.com/monu808)
+- Place: Bhopal, MP, India
+- Bio: Hello this is Narendra a final year student from VIT.
+- Portfolio Link: narendrasingh.xyz
+- Profile : Profiles/Your_Name.md
