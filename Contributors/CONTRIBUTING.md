@@ -1,5 +1,5 @@
-- Name: [Narendra Singh Chouhan](https://github.com/monu808)
-- Place: Bhopal, MP, India
-- Bio: Hello this is Narendra a final year student from VIT.
-- Portfolio Link: narendrasingh.xyz
+- Name: [Your Name](https://github.com/your-github-username)
+- Place: City, State, Country
+- Bio: A short intro about yourself
+- Portfolio Link: portfolio Link
 - Profile : Profiles/Your_Name.md
